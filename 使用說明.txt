@@ -1,0 +1,10 @@
+1.執行php artisan migrate將table建立好
+
+2.將ToDoListApi.postman_collection.json
+匯入postman
+
+3.執行auth signup
+
+4.執行get token
+
+5.將取得的token帶入新增編輯刪除的api header
